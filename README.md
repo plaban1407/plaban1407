@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Plaban Roy
 - 👀 I’m interested in developing and working on Artificial Intelligence software
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently learning Power BI, GCP and PyTorch
 - 💞️ I’m looking to collaborate on Machine Leaning projects
 - 📫 How to reach me ... feel free to reachout at plaban1407@gmail.com 
 
